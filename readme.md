@@ -1,4 +1,4 @@
-### Music Player
+# Music Player
 ## Project Specifications
 
 - Made with pure html css and vanilla javascript
